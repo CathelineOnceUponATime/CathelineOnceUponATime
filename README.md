@@ -1,6 +1,6 @@
 ### Bonjour à toutes et à tous 👋
 
-## OpenClassroom - Mes projets pendant ma formation 'Développeuse Front-End' 
+## OpenClassrooms - Mes projets pendant ma formation 'Développeuse Front-End' 
 
 Projet 1 - Prenez en main votre formation Front-End
 
