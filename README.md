@@ -17,7 +17,7 @@ https://cathelineonceuponatime.github.io/CathelineGrappin_3_02102021/) avec des 
 
 [Test](https://drive.google.com/file/d/1o0ylTCFqpwTxxYTdFMryIX9soeE0jn5b/view?usp=sharing) d'algorithmique JavaScript ✔️
 
-[Projet 9](https://github.com/CathelineOnceUponATime/Billed-app-FR-Front) - Débuggez et testez un SaaS RH
+[![LogoProjet9](https://github.com/CathelineOnceUponATime/Billed-app-FR-Front/blob/main/src/assets/images/Logo%20Billed.png)](https://github.com/CathelineOnceUponATime/Billed-app-FR-Front) - Débuggez et testez un SaaS RH
 
 [![LogoProjet10](https://github.com/CathelineOnceUponATime/CathelineGrappin_10_02022022/blob/main/LearnHome.png)](https://github.com/CathelineOnceUponATime/CathelineGrappin_10_02022022) - Définissez [les besoins](https://www.figma.com/file/LcgcaxUxIq7J6vKlKmNaKb/Learn%40Home?node-id=25%3A9) pour une app de soutien scolaire
 
