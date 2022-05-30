@@ -2,7 +2,7 @@
 
 ## OpenClassrooms - Mes projets pendant ma formation ['Développeuse Front-End'](https://openclassrooms.com/fr/paths/314-developpeur-front-end)
 
-[![LogoProjet2](https://github.com/CathelineOnceUponATime/CathelineGrappin_2_20082021/blob/main/images/logo/Reservia.svg)](https://github.com/CathelineOnceUponATime/CathelineGrappin_2_20082021) - Transformez une maquette en [site web](https://cathelineonceuponatime.github.io/CathelineGrappin_2_20082021) avec HTML & CSS
+[![LogoProjet2](https://github.com/CathelineOnceUponATime/CathelineGrappin_2_20082021/blob/main/images/logo/Reservia%20grand.svg)](https://github.com/CathelineOnceUponATime/CathelineGrappin_2_20082021) - Transformez une maquette en [site web](https://cathelineonceuponatime.github.io/CathelineGrappin_2_20082021) avec HTML & CSS
 
 [![LogoProjet3](https://github.com/CathelineOnceUponATime/CathelineGrappin_3_02102021/blob/main/images/logo/ohmyfood%20fond%20blanc%20(1).png)](https://github.com/CathelineOnceUponATime/CathelineGrappin_3_02102021) - Dynamisez une [page web](
 https://cathelineonceuponatime.github.io/CathelineGrappin_3_02102021/) avec des animations CSS
