@@ -13,7 +13,7 @@ https://cathelineonceuponatime.github.io/CathelineGrappin_3_02102021/) avec des 
 
 [![LogoProjet6](https://github.com/CathelineOnceUponATime/CathelineGrappin_6_20122021/blob/main/assets/images/logo%20Fisheye.png)](https://github.com/CathelineOnceUponATime/CathelineGrappin_6_20122021) - Créez un [site accessible](https://cathelineonceuponatime.github.io/CathelineGrappin_6_20122021/) pour une plateforme de photographes
 
-[![LogoProjet7](https://github.com/CathelineOnceUponATime/CathelineGrappin_7_09112021/blob/main/images/logo/Logo.svg)](https://github.com/CathelineOnceUponATime/CathelineGrappin_7_09112021) - Développez un algorithme de [recherche](https://cathelineonceuponatime.github.io/CathelineGrappin_7_09112021/) en JavaScript
+[![LogoProjet7](https://github.com/CathelineOnceUponATime/CathelineGrappin_7_09112021/blob/main/images/logo/Logo%20Les%20Petits%20Plats.png)](https://github.com/CathelineOnceUponATime/CathelineGrappin_7_09112021) - Développez un algorithme de [recherche](https://cathelineonceuponatime.github.io/CathelineGrappin_7_09112021/) en JavaScript
 
 [Test](https://drive.google.com/file/d/1o0ylTCFqpwTxxYTdFMryIX9soeE0jn5b/view?usp=sharing) d'algorithmique JavaScript ✔️
 
